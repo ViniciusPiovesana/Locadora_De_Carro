@@ -20,4 +20,4 @@ Foi utilizado também o H2 Database como banco de dados por ser um sistema mais 
 
 # Funcionalidades
 
-O codigo final apresenta todas as funcionalidades do CRUD, sendo assim, é possivel adicionar, ler, modificar e pagar os dados do banco de  dados do sistema de locação de carro.
+O codigo final apresenta todas as funcionalidades do CRUD, sendo assim, é possivel adicionar, ler, modificar e apagar os dados do banco de dados do sistema de locação de carro.
